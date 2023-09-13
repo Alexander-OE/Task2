@@ -17,8 +17,8 @@ Before you begin, ensure you have the following prerequisites installed on your 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Alexander-OE/Job-api.git
-cd Job-api
+git clone https://github.com/Alexander-OE/Task2.git
+cd Task2
 ```
 
 1. Install dependencies: npm install
@@ -32,3 +32,6 @@ Copy the .env.example file to .env and update the variables with your configurat
 2. Access the API at: `http://localhost:3000`
 
 ## Documentation
+Here is the link to the [documentation]
+
+[Documentation]:https://github.com/Alexander-OE/Task2/blob/main/Documentation.md
