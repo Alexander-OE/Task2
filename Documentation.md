@@ -4,7 +4,7 @@ Welcome to the API documentation for hngx person resource api.
 
 ## Table of Contents
 
-- [PERSON RESOURCE API Documentation](#person-resource-api-documentation)
+- [PERSON API Documentation](#person-resource-api-documentation)
   - [Sample Usage](#sample-usage)
     - [Creating a Person](#creating-a-person)
     - [Getting all persons](#getting-all-persons)
