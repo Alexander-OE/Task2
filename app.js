@@ -1,11 +1,12 @@
 const express = require("express");
 const connection = require("./db");
-require("dotenv").config();
+const dotenv = require("dotenv")
 const personRouter = require("./route");
 const cors = require("cors");
 const helmet = require("helmet");
 const morgan = require("morgan");
 const app = express();
+dotenv.config()
 
 app.use(express.json());
 
