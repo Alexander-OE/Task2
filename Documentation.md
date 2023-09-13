@@ -11,7 +11,6 @@ Welcome to the API documentation for hngx person resource api.
     - [Getting a person](#getting-a-person)
     - [Updating a Person by ID](#updating-a-person-by-id)
     - [Deleting a person](#deleting-a-person)
-    - [Setting Up and Deploying](#setting-up-and-deploying)
 
 ---
 
